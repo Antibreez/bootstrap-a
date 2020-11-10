@@ -1,0 +1,16 @@
+// vendor
+@import "vendor/normalize.scss";
+@import "vendor/swiper.scss";
+
+// bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap-reboot";
+@import "../../node_modules/bootstrap/scss/modal";
+@import "../../node_modules/bootstrap/scss/transitions";
+
+// general
+@import "general/variables.scss";
+@import "general/mixins.scss";
+@import "general/fonts.scss";
+@import "general/global.scss";
+
+// blocks
